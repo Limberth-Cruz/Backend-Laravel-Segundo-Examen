@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use App\Models\Empleado;
-use Illuminate\Support\Str;
+
 
 class EmpleadoSeeder extends Seeder
 {
